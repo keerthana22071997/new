@@ -1,3 +1,2 @@
-hi 
-this is keerthana
-i am practicing git
+kk
+git status
